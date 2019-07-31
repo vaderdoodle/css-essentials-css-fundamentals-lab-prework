@@ -23,8 +23,8 @@ header a {
 }
 
 #featured-property p {
-  /*idth: 800px;*/
   text-align: center;
+    width: 800px;
 }
 
 body {
