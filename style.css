@@ -2,6 +2,10 @@ h1 {
   text-align: center;
 }
 
+a {
+  text-align: center;
+}
+
 .featured-property {
   margin-left: auto;
   margin-right: auto;  
