@@ -32,6 +32,10 @@ header a {
   display: block;
 }
 
+#details div {
+  float: left;
+}
+
 body {
   width: 100%;
   height: 100%;
