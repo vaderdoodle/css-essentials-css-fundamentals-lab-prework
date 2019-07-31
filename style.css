@@ -28,6 +28,10 @@ header a {
   margin-right: auto;
 }
 
+#details {
+  display: block;
+}
+
 body {
   width: 100%;
   height: 100%;
