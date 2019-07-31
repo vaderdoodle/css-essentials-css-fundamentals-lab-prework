@@ -4,7 +4,10 @@ h1 {
 
 nav {
   text-align: center;
-  
+}
+
+header a {
+  padding: 10px;
 }
 
 #featured-property {
